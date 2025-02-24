@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Bienvenido a mi perfil de GitHub!
 
-<!--
-**Javiirt/Javiirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Javier Rodríguez Torres y programador apasionado por la tecnología y me gusta estar al día con las últimas tendencias y aprender siempre algo nuevo para seguir creciendo profesionalmente. Además, tengo un grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente estoy cursando otro grado superior en Desarrollo de Aplicaciones Web (DAW).
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas
+- 💻 Lenguajes: Java, JavaScript, PHP, HTML, CSS, SLQ, TypeScript, Python
+- 🛠️ Frameworks: Node.js, Ionic, Angular, Unity
+- 📘 Librerías: Bootstrap, jQuery, Hibernate, PHPMailer
+- 🗄️ Bases de datos: MySQL, MongoDB, Oracle Database, SQLite, Firebase Realtime Database
+- ⚙️ Herramientas: Visual Studio Code, Git, IntelliJ IDEA, MySQL Workbench, Android Studio ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Lenguajes usados en mi GitHub
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiirt&layout=compact&theme=radical)
+
+## 📫 Contacto
+Puedes encontrarme en:
+- 📧 Email: javivirodri3702@gmail.com
+-  Linkedin: [www.linkedin.com/in/javier-rodríguez-torres](https://www.linkedin.com/in/javier-rodr%C3%ADguez-torres/)
+
+---
+¡Gracias por visitar mi perfil! 🚀
+
