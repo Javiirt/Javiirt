@@ -16,7 +16,7 @@ Me llamo Javier Rodríguez Torres y programador apasionado por la tecnología y 
 ## 📫 Contacto
 Puedes encontrarme en:
 - 📧 Email: javivirodri3702@gmail.com
--  Linkedin: [www.linkedin.com/in/javier-rodríguez-torres](https://www.linkedin.com/in/javier-rodr%C3%ADguez-torres/)
+-  Linkedin: [www.linkedin.com/in/javier-rodríguez-torres](https://www.linkedin.com/in/javier-rodriguez-torres/)
 
 ---
 ¡Gracias por visitar mi perfil! 🚀
