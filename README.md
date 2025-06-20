@@ -1,11 +1,11 @@
 # 👋 ¡Bienvenido a mi perfil de GitHub!
 
-Me llamo Javier Rodríguez Torres y programador apasionado por la tecnología y me gusta estar al día con las últimas tendencias y aprender siempre algo nuevo para seguir creciendo profesionalmente. Además, tengo un grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente estoy cursando otro grado superior en Desarrollo de Aplicaciones Web (DAW).
+Me llamo Javier Rodríguez Torres y programador apasionado por la tecnología y me gusta estar al día con las últimas tendencias y aprender siempre algo nuevo para seguir creciendo profesionalmente. Además, tengo dos grados superiores en Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW).
 
 ## 🔧 Tecnologías y herramientas
 - 💻 Lenguajes: Java, JavaScript, PHP, HTML, CSS, SLQ, TypeScript, Python
 - 🛠️ Frameworks: Node.js, Ionic, Angular, Unity
-- 📘 Librerías: Bootstrap, jQuery, Hibernate, PHPMailer
+- 📘 Librerías: Bootstrap, jQuery, Hibernate, PHPMailer, Plyr, GSAP, Anime.js
 - 🗄️ Bases de datos: MySQL, MongoDB, Oracle Database, SQLite, Firebase Realtime Database
 - ⚙️ Herramientas: Visual Studio Code, Git, IntelliJ IDEA, MySQL Workbench, Android Studio ...
 
@@ -15,7 +15,7 @@ Me llamo Javier Rodríguez Torres y programador apasionado por la tecnología y 
 
 ## 📫 Contacto
 Puedes encontrarme en:
-- 📧 Email: javivirodri3702@gmail.com
+- 📧 Email: javiirt1931@gmail.com
 -  Linkedin: [www.linkedin.com/in/javier-rodriguez-torres](https://www.linkedin.com/in/javier-rodriguez-torres/)
 
 ---
