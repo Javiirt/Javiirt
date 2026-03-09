@@ -15,14 +15,6 @@ Programador apasionado por la tecnología, siempre en busca de las últimas tend
 - **Bases de datos:** MySQL, MongoDB, Oracle Database, SQLite, Firebase
 - **Herramientas:** VS Code, Git, IntelliJ IDEA, MySQL Workbench, Android Studio
 
----
-
-## 📊 Estadísticas de GitHub
-
-Aquí puedes ver un resumen de los lenguajes que más utilizo en mis proyectos:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiirt&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
 
 ---
 
