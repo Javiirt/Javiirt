@@ -1,22 +1,34 @@
-# 👋 ¡Bienvenido a mi perfil de GitHub!
+# 👋 ¡Hola! Soy Javier Rodríguez Torres
 
-Me llamo Javier Rodríguez Torres y programador apasionado por la tecnología y me gusta estar al día con las últimas tendencias y aprender siempre algo nuevo para seguir creciendo profesionalmente. Además, tengo dos grados superiores en Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW).
+Programador apasionado por la tecnología, siempre en busca de las últimas tendencias y en constante aprendizaje. Cuento con una formación especializada gracias a mis dos grados superiores en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)**.
+
+---
 
 ## 🔧 Tecnologías y herramientas
-- 💻 Lenguajes: Java, JavaScript, PHP, HTML, CSS, SLQ, TypeScript, Python
-- 🛠️ Frameworks: Node.js, Ionic, Angular, Unity
-- 📘 Librerías: Bootstrap, jQuery, Hibernate, PHPMailer, Plyr, GSAP, Anime.js
-- 🗄️ Bases de datos: MySQL, MongoDB, Oracle Database, SQLite, Firebase Realtime Database
-- ⚙️ Herramientas: Visual Studio Code, Git, IntelliJ IDEA, MySQL Workbench, Android Studio ...
 
-## 📊 Lenguajes usados en mi GitHub
+### 💻 Lenguajes y Frameworks
+- **Lenguajes:** Java, JavaScript, PHP, HTML, CSS, SQL, TypeScript, Python
+- **Frameworks:** Node.js, Ionic, Angular, Unity
+- **Librerías:** Bootstrap, jQuery, Hibernate, PHPMailer, Plyr, GSAP, Anime.js
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiirt&layout=compact&theme=radical)
+### 🗄️ Bases de Datos y Herramientas
+- **Bases de datos:** MySQL, MongoDB, Oracle Database, SQLite, Firebase
+- **Herramientas:** VS Code, Git, IntelliJ IDEA, MySQL Workbench, Android Studio
+
+---
+
+## 📊 Estadísticas de GitHub
+
+Aquí puedes ver un resumen de los lenguajes que más utilizo en mis proyectos:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiirt&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+
+---
 
 ## 📫 Contacto
-Puedes encontrarme en:
-- 📧 Email: javiirt1931@gmail.com
--  Linkedin: [www.linkedin.com/in/javier-rodriguez-torres](https://www.linkedin.com/in/javier-rodriguez-torres/)
+- 📧 **Email:** [javiirt1931@gmail.com](mailto:javiirt1931@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/javier-rodriguez-torres](https://www.linkedin.com/in/javier-rodriguez-torres/)
 
 ---
 ¡Gracias por visitar mi perfil! 🚀
